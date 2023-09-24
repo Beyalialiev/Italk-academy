@@ -1,0 +1,28 @@
+form input {
+    display: flex;
+    width: 520px;
+    height: 45px;
+    margin-top: 10px;
+}
+
+form {
+    padding-top: 30px;
+    
+}
+
+.muracietler {
+    padding-left: 500px;
+    padding-top: 60px;
+}
+
+.muracietler h1 {
+    padding-left: 90px;
+}
+
+.muracietler button {
+    width: 520px;
+    height: 45px;
+    margin-top: 15px;
+    color: #fff;
+    background: blueviolet;
+}

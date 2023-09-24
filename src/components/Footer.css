@@ -1,0 +1,24 @@
+body a {
+text-decoration: none;
+color: #aaa;
+padding-top: 20px;
+}
+
+footer {
+    background: #222;
+    display: flex;
+    padding-left: 180px;
+}
+
+footer .footer-bottom a {
+    display: flex;
+    flex-direction: column;
+}
+
+footer .footer-top h2 {
+    color: #aaa;
+}
+
+footer .footer-1 {
+    padding-left: 40px;
+}
